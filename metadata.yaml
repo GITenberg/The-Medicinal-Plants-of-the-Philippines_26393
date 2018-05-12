@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6045
     wikipedia: http://en.wikipilipinas.org/index.php?title=Trinidad_Pardo_De_Tavera
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26393#The-Medicinal-Plants-of-the-Philippines
 gutenberg_bookshelf: Botany
 gutenberg_issued: '2008-08-22'
 gutenberg_type: Text
