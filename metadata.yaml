@@ -1,0 +1,39 @@
+_repo: The-Medicinal-Plants-of-the-Philippines_26393
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Thomas, Jerome Beers
+    birthdate: 1867
+    gutenberg_agent_id: '31975'
+    url: http://www.gutenberg.org/2009/agents/31975
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pardo de Tavera, T. H. (Trinidad Hermenegildo)
+    aliases:
+    - Tavera, T. H. Pardo de (Trinidad Hermenegildo Pardo)
+    - De Tavera, T. H. Pardo (Trinidad Hermenegildo Pardo)
+    - Tavera, Trinidad Hermenegildo Pardo de
+    birthdate: 1857
+    deathdate: 1925
+    gutenberg_agent_id: '6045'
+    url: http://www.gutenberg.org/2009/agents/6045
+    wikipedia: http://en.wikipilipinas.org/index.php?title=Trinidad_Pardo_De_Tavera
+description: ''
+gutenberg_bookshelf: Botany
+gutenberg_issued: '2008-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Medicinal plants -- Philippines'
+- !lcsh 'Botany -- Philippines'
+title: The Medicinal Plants of the Philippines
+url: http://www.gutenberg.org/ebooks/26393
